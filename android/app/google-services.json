@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82574911122",
+    "project_id": "flutterwidgets-f34e3",
+    "storage_bucket": "flutterwidgets-f34e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82574911122:android:181f4d8595f85ebcaba84b",
+        "android_client_info": {
+          "package_name": "com.trail2.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82574911122-k42ubs1sa59ii6heja5qd6n70ivk0c6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9Zd53upZVe2l52QeLnUAujyDii91tqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82574911122-k42ubs1sa59ii6heja5qd6n70ivk0c6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
